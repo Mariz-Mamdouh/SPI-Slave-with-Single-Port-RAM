@@ -2,10 +2,10 @@
 ## Description:
 The Serial Peripheral Interface (SPI) is a synchronous serial communication protocol primarily used for short distance communication, typically within embedded systems. It facilitates full-duplex communication between a master device and one or more slave devices. SPI is renowned for its simplicity, speed, and versatility in connecting microcontrollers, sensors, and other peripherals.
 ## Features:
-• Synchronous Communication: Data is synchronized with a clock signal, ensuring precise timing and reliability.
-• Full-Duplex Transmission: Simultaneous two-way communication between master and slave.
-• High Speed: Capable of operating at high clock speeds, making it suitable for highbandwidth applications.
-• Simple Hardware Requirements: Requires only three main signal lines—MOSI, MISO, and SCK. Some implementations may omit Slave Select (SS).
+- Synchronous Communication: Data is synchronized with a clock signal, ensuring precise timing and reliability.
+- Full-Duplex Transmission: Simultaneous two-way communication between master and slave.
+- High Speed: Capable of operating at high clock speeds, making it suitable for highbandwidth applications.
+- Simple Hardware Requirements: Requires only three main signal lines—MOSI, MISO, and SCK. Some implementations may omit Slave Select (SS).
 ## Signal Lines:
 1. MOSI (Master Out Slave In): Carries data from the master to the slave.
 2. MISO (Master In Slave Out): Carries data from the slave to the master.
