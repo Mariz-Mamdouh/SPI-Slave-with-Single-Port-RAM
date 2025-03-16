@@ -1,0 +1,29 @@
+{D:/Digital Design Diploma/Project2/RTL code/SPI_slave.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Design Diploma/Project2/RTL code/SPI_slave.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SPI_slave
+
+Top level modules:
+	SPI_slave
+
+} {} {}} {D:/Digital Design Diploma/Project2/Testbench code/SPI_wrapper_tb.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Design Diploma/Project2/Testbench code/SPI_wrapper_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SPI_tb
+
+Top level modules:
+	SPI_tb
+
+} {} {}} {D:/Digital Design Diploma/Project2/RTL code/RAM.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Design Diploma/Project2/RTL code/RAM.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} {D:/Digital Design Diploma/Project2/RTL code/SPI_wrapper.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Design Diploma/Project2/RTL code/SPI_wrapper.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SPI_wrapper
+
+Top level modules:
+	SPI_wrapper
+
+} {} {}}

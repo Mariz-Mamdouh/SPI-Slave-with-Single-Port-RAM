@@ -1,0 +1,226 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Digital Verification Diploma/Assignment1 extra
+T_opt
+!s110 1741199076
+VM=Ziz@X7jleSz]Ji[4oFj2
+04 12 4 work SPI_slave_tb fast 0
+=1-846993537ea9-67c896e3-13a-4fa4
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1742049256
+VANi9_c3i7nAUhY=c96W:R3
+04 6 4 work SPI_tb fast 0
+=2-846993537ea9-67d58fe7-3b5-1464
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+vRAM
+Z6 !s110 1742049298
+!i10b 1
+!s100 n5ObRBHafP7biMFdhM;Hk1
+IjP2=hBz6EM96S[]NHP@cc2
+Z7 dD:/Digital Design Diploma/Project2
+Z8 w1742048550
+8D:/Digital Design Diploma/Project2/RTL code/RAM.v
+FD:/Digital Design Diploma/Project2/RTL code/RAM.v
+!i122 463
+L0 1 45
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z11 !s108 1742049298.000000
+!s107 D:/Digital Design Diploma/Project2/RTL code/RAM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Design Diploma/Project2/RTL code/RAM.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@r@a@m
+vSPI_slave
+R6
+!i10b 1
+!s100 Tb9R3Ba_eA:HHWAE>64AV3
+IogACS>FF0oV[LG_f>j`Ri0
+R7
+R8
+8D:/Digital Design Diploma/Project2/RTL code/SPI_slave.v
+FD:/Digital Design Diploma/Project2/RTL code/SPI_slave.v
+!i122 464
+L0 1 143
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital Design Diploma/Project2/RTL code/SPI_slave.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Design Diploma/Project2/RTL code/SPI_slave.v|
+!i113 0
+R12
+R4
+n@s@p@i_slave
+vSPI_slave_tb
+!s110 1741205395
+!i10b 1
+!s100 L]Fz2P`mdD`IbkWK8oB0T1
+IXneoZjMZ9H=Udf3BQJMm93
+R7
+w1741199050
+8D:/Digital Design Diploma/Project2/Testbench code/SPI_slave_tb.v
+FD:/Digital Design Diploma/Project2/Testbench code/SPI_slave_tb.v
+!i122 129
+L0 1 38
+R9
+R10
+r1
+!s85 0
+31
+!s108 1741205395.000000
+!s107 D:/Digital Design Diploma/Project2/Testbench code/SPI_slave_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Design Diploma/Project2/Testbench code/SPI_slave_tb.v|
+!i113 0
+R12
+R4
+n@s@p@i_slave_tb
+vSPI_tb
+R6
+!i10b 1
+!s100 6RUQIF9Y16G;dMTO0O;aM0
+IZW;KBgU]J4=fzNQ`X3B[H3
+R7
+w1742049009
+8D:/Digital Design Diploma/Project2/Testbench code/SPI_wrapper_tb.v
+FD:/Digital Design Diploma/Project2/Testbench code/SPI_wrapper_tb.v
+!i122 466
+L0 1 102
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital Design Diploma/Project2/Testbench code/SPI_wrapper_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Design Diploma/Project2/Testbench code/SPI_wrapper_tb.v|
+!i113 0
+R12
+R4
+n@s@p@i_tb
+vSPI_wrapper
+R6
+!i10b 1
+!s100 AY`<akh06N=j2M9Who36g2
+I4EO1KAG2YWLJjhEClPN@j1
+R7
+w1741896223
+8D:/Digital Design Diploma/Project2/RTL code/SPI_wrapper.v
+FD:/Digital Design Diploma/Project2/RTL code/SPI_wrapper.v
+!i122 465
+L0 1 16
+R9
+R10
+r1
+!s85 0
+31
+R11
+!s107 D:/Digital Design Diploma/Project2/RTL code/SPI_wrapper.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Design Diploma/Project2/RTL code/SPI_wrapper.v|
+!i113 0
+R12
+R4
+n@s@p@i_wrapper
