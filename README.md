@@ -1,1 +1,1 @@
-# Spartan6---DSP48A1
+# SPI Slave with Single Port RAM
